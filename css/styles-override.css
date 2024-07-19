@@ -1,0 +1,19 @@
+.n-btn, 
+.n-form button[type=reset], 
+.n-form button[type=submit], 
+.n-form input[type=submit], 
+.n-type a.n-btn[href], 
+a.n-btn[href], 
+button.n-btn {
+    background-color: #007878;
+}
+
+/* .n-btn:not([disabled]):hover, 
+.n-form button[type=reset]:not([disabled]):hover, 
+.n-form button[type=submit]:not([disabled]):hover, 
+.n-form input[type=submit]:not([disabled]):hover, 
+.n-type a.n-btn[href]:not([disabled]):hover, 
+a.n-btn[href]:not([disabled]):hover, 
+button.n-btn:not([disabled]):hover {
+    background-color: #007878;
+} */
