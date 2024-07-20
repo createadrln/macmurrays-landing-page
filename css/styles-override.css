@@ -8,6 +8,11 @@ button.n-btn {
     background-color: #007878;
 }
 
+.n-accordion__label button {
+    background-color: #007878;
+    color: #FFF;
+}
+
 /* .n-btn:not([disabled]):hover, 
 .n-form button[type=reset]:not([disabled]):hover, 
 .n-form button[type=submit]:not([disabled]):hover, 
